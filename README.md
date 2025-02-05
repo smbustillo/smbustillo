@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+I'm a backend software developer. <br>
+I've been a PL/1 and Java developer for 13 years.  <br>
+I’m currently learning Spring Framework.  <br>
+
 <!--
 **smbustillo/smbustillo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
